@@ -10,7 +10,8 @@ An interactive Power BI dashboard designed to analyze sales performance, profita
 
 <p align="center">
   <img src="images/Sales Analysis Dashboard.png" alt="Sales Analysis Dashboard" width="100%">
-</p>
+</p><img width="929" height="551" alt="image" src="https://github.com/user-attachments/assets/05f9eb9e-eabc-4c1c-8f98-a47b1205214c" />
+
 
 ---
 
