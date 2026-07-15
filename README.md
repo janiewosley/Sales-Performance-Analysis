@@ -128,7 +128,7 @@ Sales-Analysis-Dashboard/
 ## 🚀 How to Use
 
 1. Download the project files.
-2. Open the `.pbix` file in Power BI Desktop.
+2. Open the file in Power BI Desktop.
 3. Refresh the dataset if required.
 4. Use the Region and Category slicers to interact with the dashboard.
 5. Explore KPIs and visualizations for business insights.
